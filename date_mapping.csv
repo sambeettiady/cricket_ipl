@@ -1,0 +1,577 @@
+"ipl_edition","match_date","home_team","away_team","match_number_total","match_number_season"
+1,2008-04-18,"Royal Challengers Bangalore","Kolkata Knight Riders",1,1
+1,2008-04-19,"Kings XI Punjab","Chennai Super Kings",2,2
+1,2008-04-19,"Delhi Daredevils","Rajasthan Royals",3,3
+1,2008-04-20,"Mumbai Indians","Royal Challengers Bangalore",4,4
+1,2008-04-20,"Kolkata Knight Riders","Deccan Chargers",5,5
+1,2008-04-21,"Rajasthan Royals","Kings XI Punjab",6,6
+1,2008-04-22,"Deccan Chargers","Delhi Daredevils",7,7
+1,2008-04-23,"Chennai Super Kings","Mumbai Indians",8,8
+1,2008-04-24,"Deccan Chargers","Rajasthan Royals",9,9
+1,2008-04-25,"Kings XI Punjab","Mumbai Indians",10,10
+1,2008-04-26,"Royal Challengers Bangalore","Rajasthan Royals",11,11
+1,2008-04-26,"Chennai Super Kings","Kolkata Knight Riders",12,12
+1,2008-04-27,"Mumbai Indians","Deccan Chargers",13,13
+1,2008-04-27,"Kings XI Punjab","Delhi Daredevils",14,14
+1,2008-04-28,"Royal Challengers Bangalore","Chennai Super Kings",15,15
+1,2008-04-29,"Kolkata Knight Riders","Mumbai Indians",16,16
+1,2008-04-30,"Delhi Daredevils","Royal Challengers Bangalore",17,17
+1,2008-05-01,"Deccan Chargers","Kings XI Punjab",18,18
+1,2008-05-01,"Rajasthan Royals","Kolkata Knight Riders",19,19
+1,2008-05-02,"Chennai Super Kings","Delhi Daredevils",20,20
+1,2008-05-25,"Deccan Chargers","Royal Challengers Bangalore",50,50
+1,2008-05-03,"Kings XI Punjab","Kolkata Knight Riders",21,21
+1,2008-05-04,"Mumbai Indians","Delhi Daredevils",23,23
+1,2008-05-04,"Rajasthan Royals","Chennai Super Kings",24,24
+1,2008-05-05,"Royal Challengers Bangalore","Kings XI Punjab",25,25
+1,2008-05-06,"Chennai Super Kings","Deccan Chargers",26,26
+1,2008-05-07,"Mumbai Indians","Rajasthan Royals",27,27
+1,2008-05-08,"Delhi Daredevils","Chennai Super Kings",28,28
+1,2008-05-08,"Kolkata Knight Riders","Royal Challengers Bangalore",29,29
+1,2008-05-09,"Rajasthan Royals","Deccan Chargers",30,30
+1,2008-05-28,"Royal Challengers Bangalore","Mumbai Indians",54,54
+1,2008-05-10,"Chennai Super Kings","Kings XI Punjab",31,31
+1,2008-05-11,"Deccan Chargers","Kolkata Knight Riders",32,32
+1,2008-05-11,"Rajasthan Royals","Delhi Daredevils",33,33
+1,2008-05-12,"Kings XI Punjab","Royal Challengers Bangalore",34,34
+1,2008-05-13,"Kolkata Knight Riders","Delhi Daredevils",35,35
+1,2008-05-14,"Mumbai Indians","Chennai Super Kings",36,36
+1,2008-05-28,"Kings XI Punjab","Rajasthan Royals",55,55
+1,2008-05-15,"Delhi Daredevils","Deccan Chargers",37,37
+1,2008-05-16,"Mumbai Indians","Kolkata Knight Riders",38,38
+1,2008-05-17,"Delhi Daredevils","Kings XI Punjab",39,39
+1,2008-05-17,"Rajasthan Royals","Royal Challengers Bangalore",40,40
+1,2008-05-18,"Deccan Chargers","Mumbai Indians",41,41
+1,2008-05-18,"Kolkata Knight Riders","Chennai Super Kings",42,42
+1,2008-05-19,"Royal Challengers Bangalore","Delhi Daredevils",43,43
+1,2008-05-20,"Kolkata Knight Riders","Rajasthan Royals",44,44
+1,2008-05-21,"Mumbai Indians","Kings XI Punjab",45,45
+1,2008-05-21,"Chennai Super Kings","Royal Challengers Bangalore",46,46
+1,2008-05-23,"Kings XI Punjab","Deccan Chargers",47,47
+1,2008-05-24,"Delhi Daredevils","Mumbai Indians",48,48
+1,2008-05-24,"Chennai Super Kings","Rajasthan Royals",49,49
+1,2008-05-03,"Royal Challengers Bangalore","Deccan Chargers",22,22
+1,2008-05-25,"Kolkata Knight Riders","Kings XI Punjab",51,51
+1,2008-05-26,"Rajasthan Royals","Mumbai Indians",52,52
+1,2008-05-27,"Deccan Chargers","Chennai Super Kings",53,53
+1,2008-05-30,"Delhi Daredevils","Rajasthan Royals",56,56
+1,2008-05-31,"Chennai Super Kings","Kings XI Punjab",57,57
+1,2008-06-01,"Chennai Super Kings","Rajasthan Royals",58,58
+2,2009-04-18,"Chennai Super Kings","Mumbai Indians",59,1
+2,2009-04-18,"Royal Challengers Bangalore","Rajasthan Royals",60,2
+2,2009-04-19,"Delhi Daredevils","Kings XI Punjab",61,3
+2,2009-04-19,"Deccan Chargers","Kolkata Knight Riders",62,4
+2,2009-04-20,"Royal Challengers Bangalore","Chennai Super Kings",63,5
+2,2009-04-21,"Kings XI Punjab","Kolkata Knight Riders",64,6
+2,2009-04-22,"Royal Challengers Bangalore","Deccan Chargers",65,7
+2,2009-04-23,"Chennai Super Kings","Delhi Daredevils",66,8
+2,2009-04-23,"Kolkata Knight Riders","Rajasthan Royals",67,9
+2,2009-04-24,"Royal Challengers Bangalore","Kings XI Punjab",68,10
+2,2009-04-25,"Deccan Chargers","Mumbai Indians",69,11
+2,2009-04-26,"Royal Challengers Bangalore","Delhi Daredevils",70,12
+2,2009-04-26,"Kings XI Punjab","Rajasthan Royals",71,13
+2,2009-04-27,"Chennai Super Kings","Deccan Chargers",72,14
+2,2009-04-27,"Kolkata Knight Riders","Mumbai Indians",73,15
+2,2009-04-28,"Delhi Daredevils","Rajasthan Royals",74,16
+2,2009-04-29,"Royal Challengers Bangalore","Kolkata Knight Riders",75,17
+2,2009-04-29,"Kings XI Punjab","Mumbai Indians",76,18
+2,2009-04-30,"Deccan Chargers","Delhi Daredevils",77,19
+2,2009-04-30,"Chennai Super Kings","Rajasthan Royals",78,20
+2,2009-05-01,"Kolkata Knight Riders","Mumbai Indians",79,21
+2,2009-05-01,"Royal Challengers Bangalore","Kings XI Punjab",80,22
+2,2009-05-02,"Deccan Chargers","Rajasthan Royals",81,23
+2,2009-05-02,"Chennai Super Kings","Delhi Daredevils",82,24
+2,2009-05-03,"Kings XI Punjab","Kolkata Knight Riders",83,25
+2,2009-05-03,"Royal Challengers Bangalore","Mumbai Indians",84,26
+2,2009-05-04,"Chennai Super Kings","Deccan Chargers",85,27
+2,2009-05-05,"Kings XI Punjab","Rajasthan Royals",86,28
+2,2009-05-05,"Delhi Daredevils","Kolkata Knight Riders",87,29
+2,2009-05-06,"Deccan Chargers","Mumbai Indians",88,30
+2,2009-05-07,"Royal Challengers Bangalore","Rajasthan Royals",89,31
+2,2009-05-07,"Chennai Super Kings","Kings XI Punjab",90,32
+2,2009-05-08,"Delhi Daredevils","Mumbai Indians",91,33
+2,2009-05-09,"Deccan Chargers","Kings XI Punjab",92,34
+2,2009-05-09,"Chennai Super Kings","Rajasthan Royals",93,35
+2,2009-05-10,"Royal Challengers Bangalore","Mumbai Indians",94,36
+2,2009-05-10,"Delhi Daredevils","Kolkata Knight Riders",95,37
+2,2009-05-11,"Deccan Chargers","Rajasthan Royals",96,38
+2,2009-05-12,"Royal Challengers Bangalore","Kolkata Knight Riders",97,39
+2,2009-05-12,"Kings XI Punjab","Mumbai Indians",98,40
+2,2009-05-13,"Deccan Chargers","Delhi Daredevils",99,41
+2,2009-05-14,"Royal Challengers Bangalore","Chennai Super Kings",100,42
+2,2009-05-14,"Mumbai Indians","Rajasthan Royals",101,43
+2,2009-05-15,"Delhi Daredevils","Kings XI Punjab",102,44
+2,2009-05-16,"Chennai Super Kings","Mumbai Indians",103,45
+2,2009-05-16,"Deccan Chargers","Kolkata Knight Riders",104,46
+2,2009-05-17,"Deccan Chargers","Kings XI Punjab",105,47
+2,2009-05-17,"Delhi Daredevils","Rajasthan Royals",106,48
+2,2009-05-18,"Chennai Super Kings","Kolkata Knight Riders",107,49
+2,2009-05-19,"Royal Challengers Bangalore","Delhi Daredevils",108,50
+2,2009-05-20,"Kolkata Knight Riders","Rajasthan Royals",109,51
+2,2009-05-20,"Chennai Super Kings","Kings XI Punjab",110,52
+2,2009-05-21,"Delhi Daredevils","Mumbai Indians",111,53
+2,2009-05-21,"Royal Challengers Bangalore","Deccan Chargers",112,54
+2,2009-05-22,"Delhi Daredevils","Deccan Chargers",113,55
+2,2009-05-23,"Royal Challengers Bangalore","Chennai Super Kings",114,56
+2,2009-05-24,"Royal Challengers Bangalore","Deccan Chargers",115,57
+3,2010-03-12,"Deccan Chargers","Kolkata Knight Riders",116,1
+3,2010-03-13,"Mumbai Indians","Rajasthan Royals",117,2
+3,2010-03-13,"Kings XI Punjab","Delhi Daredevils",118,3
+3,2010-03-14,"Kolkata Knight Riders","Royal Challengers Bangalore",119,4
+3,2010-03-14,"Chennai Super Kings","Deccan Chargers",120,5
+3,2010-03-15,"Rajasthan Royals","Delhi Daredevils",121,6
+3,2010-03-16,"Royal Challengers Bangalore","Kings XI Punjab",122,7
+3,2010-03-16,"Kolkata Knight Riders","Chennai Super Kings",123,8
+3,2010-03-17,"Delhi Daredevils","Mumbai Indians",124,9
+3,2010-03-18,"Royal Challengers Bangalore","Rajasthan Royals",125,10
+3,2010-03-19,"Delhi Daredevils","Chennai Super Kings",126,11
+3,2010-03-19,"Deccan Chargers","Kings XI Punjab",127,12
+3,2010-03-20,"Rajasthan Royals","Kolkata Knight Riders",128,13
+3,2010-03-20,"Mumbai Indians","Royal Challengers Bangalore",129,14
+3,2010-03-21,"Deccan Chargers","Delhi Daredevils",130,15
+3,2010-03-21,"Chennai Super Kings","Kings XI Punjab",131,16
+3,2010-03-22,"Mumbai Indians","Kolkata Knight Riders",132,17
+3,2010-03-23,"Royal Challengers Bangalore","Chennai Super Kings",133,18
+3,2010-03-24,"Kings XI Punjab","Rajasthan Royals",134,19
+3,2010-03-25,"Mumbai Indians","Chennai Super Kings",135,20
+3,2010-03-26,"Rajasthan Royals","Deccan Chargers",137,22
+3,2010-03-27,"Kings XI Punjab","Kolkata Knight Riders",138,23
+3,2010-03-25,"Royal Challengers Bangalore","Delhi Daredevils",136,21
+3,2010-03-28,"Rajasthan Royals","Chennai Super Kings",139,24
+3,2010-03-28,"Deccan Chargers","Mumbai Indians",140,25
+3,2010-03-29,"Delhi Daredevils","Kolkata Knight Riders",141,26
+3,2010-03-30,"Mumbai Indians","Kings XI Punjab",142,27
+3,2010-03-31,"Chennai Super Kings","Royal Challengers Bangalore",143,28
+3,2010-03-31,"Delhi Daredevils","Rajasthan Royals",144,29
+3,2010-04-01,"Kolkata Knight Riders","Deccan Chargers",145,30
+3,2010-04-02,"Kings XI Punjab","Royal Challengers Bangalore",146,31
+3,2010-04-03,"Chennai Super Kings","Rajasthan Royals",147,32
+3,2010-04-03,"Mumbai Indians","Deccan Chargers",148,33
+3,2010-04-04,"Kolkata Knight Riders","Kings XI Punjab",149,34
+3,2010-04-04,"Delhi Daredevils","Royal Challengers Bangalore",150,35
+3,2010-04-05,"Deccan Chargers","Rajasthan Royals",151,36
+3,2010-04-06,"Chennai Super Kings","Mumbai Indians",152,37
+3,2010-04-07,"Rajasthan Royals","Kings XI Punjab",153,38
+3,2010-04-07,"Kolkata Knight Riders","Delhi Daredevils",154,39
+3,2010-04-08,"Royal Challengers Bangalore","Deccan Chargers",155,40
+3,2010-04-09,"Kings XI Punjab","Mumbai Indians",156,41
+3,2010-04-10,"Deccan Chargers","Chennai Super Kings",157,42
+3,2010-04-10,"Royal Challengers Bangalore","Kolkata Knight Riders",158,43
+3,2010-04-11,"Delhi Daredevils","Kings XI Punjab",159,44
+3,2010-04-11,"Rajasthan Royals","Mumbai Indians",160,45
+3,2010-04-12,"Deccan Chargers","Royal Challengers Bangalore",161,46
+3,2010-04-13,"Mumbai Indians","Delhi Daredevils",162,47
+3,2010-04-13,"Chennai Super Kings","Kolkata Knight Riders",163,48
+3,2010-04-14,"Rajasthan Royals","Royal Challengers Bangalore",164,49
+3,2010-04-15,"Chennai Super Kings","Delhi Daredevils",165,50
+3,2010-04-16,"Kings XI Punjab","Deccan Chargers",166,51
+3,2010-04-17,"Royal Challengers Bangalore","Mumbai Indians",167,52
+3,2010-04-17,"Kolkata Knight Riders","Rajasthan Royals",168,53
+3,2010-04-18,"Kings XI Punjab","Chennai Super Kings",169,54
+3,2010-04-18,"Delhi Daredevils","Deccan Chargers",170,55
+3,2010-04-19,"Kolkata Knight Riders","Mumbai Indians",171,56
+3,2010-04-21,"Royal Challengers Bangalore","Mumbai Indians",172,57
+3,2010-04-22,"Chennai Super Kings","Deccan Chargers",173,58
+3,2010-04-24,"Royal Challengers Bangalore","Deccan Chargers",174,59
+3,2010-04-25,"Chennai Super Kings","Mumbai Indians",175,60
+4,2011-04-08,"Chennai Super Kings","Kolkata Knight Riders",176,1
+4,2011-04-09,"Deccan Chargers","Rajasthan Royals",177,2
+4,2011-04-09,"Kochi Tuskers Kerala","Royal Challengers Bangalore",178,3
+4,2011-04-10,"Delhi Daredevils","Mumbai Indians",179,4
+4,2011-04-10,"Pune Warriors","Kings XI Punjab",180,5
+4,2011-04-11,"Kolkata Knight Riders","Deccan Chargers",181,6
+4,2011-04-12,"Rajasthan Royals","Delhi Daredevils",182,7
+4,2011-04-12,"Royal Challengers Bangalore","Mumbai Indians",183,8
+4,2011-04-13,"Kings XI Punjab","Chennai Super Kings",184,9
+4,2011-04-13,"Pune Warriors","Kochi Tuskers Kerala",185,10
+4,2011-04-14,"Deccan Chargers","Royal Challengers Bangalore",186,11
+4,2011-04-15,"Rajasthan Royals","Kolkata Knight Riders",187,12
+4,2011-04-15,"Mumbai Indians","Kochi Tuskers Kerala",188,13
+4,2011-04-16,"Chennai Super Kings","Royal Challengers Bangalore",189,14
+4,2011-04-16,"Deccan Chargers","Kings XI Punjab",190,15
+4,2011-04-17,"Pune Warriors","Delhi Daredevils",191,16
+4,2011-04-17,"Kolkata Knight Riders","Rajasthan Royals",192,17
+4,2011-04-18,"Kochi Tuskers Kerala","Chennai Super Kings",193,18
+4,2011-04-19,"Delhi Daredevils","Deccan Chargers",194,19
+4,2011-04-20,"Mumbai Indians","Pune Warriors",195,20
+4,2011-04-20,"Kolkata Knight Riders","Kochi Tuskers Kerala",196,21
+4,2011-04-21,"Kings XI Punjab","Rajasthan Royals",197,22
+4,2011-04-22,"Mumbai Indians","Chennai Super Kings",198,23
+4,2011-04-22,"Kolkata Knight Riders","Royal Challengers Bangalore",199,24
+4,2011-04-23,"Delhi Daredevils","Kings XI Punjab",200,25
+4,2011-04-24,"Deccan Chargers","Mumbai Indians",201,26
+4,2011-04-24,"Rajasthan Royals","Kochi Tuskers Kerala",202,27
+4,2011-04-25,"Chennai Super Kings","Pune Warriors",203,28
+4,2011-04-26,"Delhi Daredevils","Royal Challengers Bangalore",204,29
+4,2011-04-27,"Pune Warriors","Chennai Super Kings",205,30
+4,2011-04-27,"Kochi Tuskers Kerala","Deccan Chargers",206,31
+4,2011-04-28,"Delhi Daredevils","Kolkata Knight Riders",207,32
+4,2011-04-29,"Rajasthan Royals","Mumbai Indians",208,33
+4,2011-04-29,"Royal Challengers Bangalore","Pune Warriors",209,34
+4,2011-04-30,"Kochi Tuskers Kerala","Delhi Daredevils",210,35
+4,2011-04-30,"Kolkata Knight Riders","Kings XI Punjab",211,36
+4,2011-05-01,"Rajasthan Royals","Pune Warriors",212,37
+4,2011-05-01,"Chennai Super Kings","Deccan Chargers",213,38
+4,2011-05-02,"Mumbai Indians","Kings XI Punjab",214,39
+4,2011-05-02,"Delhi Daredevils","Kochi Tuskers Kerala",215,40
+4,2011-05-03,"Deccan Chargers","Kolkata Knight Riders",216,41
+4,2011-05-04,"Chennai Super Kings","Rajasthan Royals",217,42
+4,2011-05-04,"Pune Warriors","Mumbai Indians",218,43
+4,2011-05-05,"Kochi Tuskers Kerala","Kolkata Knight Riders",219,44
+4,2011-05-05,"Deccan Chargers","Delhi Daredevils",220,45
+4,2011-05-06,"Royal Challengers Bangalore","Kings XI Punjab",221,46
+4,2011-05-07,"Kolkata Knight Riders","Chennai Super Kings",222,47
+4,2011-05-07,"Mumbai Indians","Delhi Daredevils",223,48
+4,2011-05-08,"Royal Challengers Bangalore","Kochi Tuskers Kerala",224,49
+4,2011-05-08,"Kings XI Punjab","Pune Warriors",225,50
+4,2011-05-09,"Rajasthan Royals","Chennai Super Kings",226,51
+4,2011-05-10,"Deccan Chargers","Pune Warriors",227,52
+4,2011-05-10,"Kings XI Punjab","Mumbai Indians",228,53
+4,2011-05-11,"Rajasthan Royals","Royal Challengers Bangalore",229,54
+4,2011-05-12,"Chennai Super Kings","Delhi Daredevils",230,55
+4,2011-05-13,"Kochi Tuskers Kerala","Kings XI Punjab",231,56
+4,2011-05-14,"Royal Challengers Bangalore","Kolkata Knight Riders",232,57
+4,2011-05-14,"Mumbai Indians","Deccan Chargers",233,58
+4,2011-05-15,"Kings XI Punjab","Delhi Daredevils",234,59
+4,2011-05-15,"Kochi Tuskers Kerala","Rajasthan Royals",235,60
+4,2011-05-16,"Pune Warriors","Deccan Chargers",236,61
+4,2011-05-17,"Kings XI Punjab","Royal Challengers Bangalore",237,62
+4,2011-05-18,"Chennai Super Kings","Kochi Tuskers Kerala",238,63
+4,2011-05-19,"Pune Warriors","Kolkata Knight Riders",239,64
+4,2011-05-20,"Mumbai Indians","Rajasthan Royals",240,65
+4,2011-05-21,"Kings XI Punjab","Deccan Chargers",241,66
+4,2011-05-21,"Delhi Daredevils","Pune Warriors",242,67
+4,2011-05-22,"Royal Challengers Bangalore","Chennai Super Kings",243,68
+4,2011-05-22,"Kolkata Knight Riders","Mumbai Indians",244,69
+4,2011-05-24,"Royal Challengers Bangalore","Chennai Super Kings",245,70
+4,2011-05-25,"Mumbai Indians","Kolkata Knight Riders",246,71
+4,2011-05-27,"Royal Challengers Bangalore","Mumbai Indians",247,72
+4,2011-05-28,"Chennai Super Kings","Royal Challengers Bangalore",248,73
+5,2012-04-04,"Chennai Super Kings","Mumbai Indians",249,1
+5,2012-04-05,"Kolkata Knight Riders","Delhi Daredevils",250,2
+5,2012-04-06,"Mumbai Indians","Pune Warriors",251,3
+5,2012-04-06,"Rajasthan Royals","Kings XI Punjab",252,4
+5,2012-04-07,"Royal Challengers Bangalore","Delhi Daredevils",253,5
+5,2012-04-07,"Deccan Chargers","Chennai Super Kings",254,6
+5,2012-04-08,"Rajasthan Royals","Kolkata Knight Riders",255,7
+5,2012-04-08,"Pune Warriors","Kings XI Punjab",256,8
+5,2012-04-09,"Deccan Chargers","Mumbai Indians",257,9
+5,2012-04-10,"Royal Challengers Bangalore","Kolkata Knight Riders",258,10
+5,2012-04-10,"Delhi Daredevils","Chennai Super Kings",259,11
+5,2012-04-11,"Mumbai Indians","Rajasthan Royals",260,12
+5,2012-04-12,"Chennai Super Kings","Royal Challengers Bangalore",261,13
+5,2012-04-12,"Kings XI Punjab","Pune Warriors",262,14
+5,2012-04-13,"Kolkata Knight Riders","Rajasthan Royals",263,15
+5,2012-04-19,"Delhi Daredevils","Deccan Chargers",271,23
+5,2012-04-14,"Pune Warriors","Chennai Super Kings",264,16
+5,2012-04-15,"Kolkata Knight Riders","Kings XI Punjab",265,17
+5,2012-04-15,"Royal Challengers Bangalore","Rajasthan Royals",266,18
+5,2012-04-16,"Mumbai Indians","Delhi Daredevils",267,19
+5,2012-04-17,"Rajasthan Royals","Deccan Chargers",268,20
+5,2012-04-17,"Royal Challengers Bangalore","Pune Warriors",269,21
+5,2012-04-18,"Kings XI Punjab","Kolkata Knight Riders",270,22
+5,2012-05-10,"Deccan Chargers","Delhi Daredevils",301,53
+5,2012-04-19,"Chennai Super Kings","Pune Warriors",272,24
+5,2012-04-20,"Kings XI Punjab","Royal Challengers Bangalore",273,25
+5,2012-04-21,"Chennai Super Kings","Rajasthan Royals",274,26
+5,2012-04-21,"Delhi Daredevils","Pune Warriors",275,27
+5,2012-04-22,"Mumbai Indians","Kings XI Punjab",276,28
+5,2012-04-22,"Deccan Chargers","Kolkata Knight Riders",277,29
+5,2012-04-23,"Rajasthan Royals","Royal Challengers Bangalore",278,30
+5,2012-04-24,"Pune Warriors","Delhi Daredevils",279,31
+5,2012-04-25,"Kings XI Punjab","Mumbai Indians",280,32
+5,2012-04-26,"Pune Warriors","Deccan Chargers",281,33
+5,2012-04-27,"Delhi Daredevils","Mumbai Indians",282,34
+5,2012-04-28,"Chennai Super Kings","Kings XI Punjab",283,35
+5,2012-04-28,"Kolkata Knight Riders","Royal Challengers Bangalore",284,36
+5,2012-04-29,"Delhi Daredevils","Rajasthan Royals",285,37
+5,2012-04-29,"Mumbai Indians","Deccan Chargers",286,38
+5,2012-04-30,"Chennai Super Kings","Kolkata Knight Riders",287,39
+5,2012-05-01,"Deccan Chargers","Pune Warriors",288,40
+5,2012-05-01,"Rajasthan Royals","Delhi Daredevils",289,41
+5,2012-05-02,"Royal Challengers Bangalore","Kings XI Punjab",290,42
+5,2012-05-03,"Pune Warriors","Mumbai Indians",291,43
+5,2012-05-04,"Chennai Super Kings","Deccan Chargers",292,44
+5,2012-05-05,"Kolkata Knight Riders","Pune Warriors",293,45
+5,2012-05-05,"Kings XI Punjab","Rajasthan Royals",294,46
+5,2012-05-06,"Mumbai Indians","Chennai Super Kings",295,47
+5,2012-05-06,"Royal Challengers Bangalore","Deccan Chargers",296,48
+5,2012-05-07,"Delhi Daredevils","Kolkata Knight Riders",297,49
+5,2012-05-08,"Pune Warriors","Rajasthan Royals",298,50
+5,2012-05-08,"Deccan Chargers","Kings XI Punjab",299,51
+5,2012-05-09,"Mumbai Indians","Royal Challengers Bangalore",300,52
+5,2012-05-10,"Rajasthan Royals","Chennai Super Kings",302,54
+5,2012-05-11,"Pune Warriors","Royal Challengers Bangalore",303,55
+5,2012-05-12,"Kolkata Knight Riders","Mumbai Indians",304,56
+5,2012-05-12,"Chennai Super Kings","Delhi Daredevils",305,57
+5,2012-05-13,"Rajasthan Royals","Pune Warriors",306,58
+5,2012-05-13,"Kings XI Punjab","Deccan Chargers",307,59
+5,2012-05-14,"Royal Challengers Bangalore","Mumbai Indians",308,60
+5,2012-05-14,"Kolkata Knight Riders","Chennai Super Kings",309,61
+5,2012-05-15,"Delhi Daredevils","Kings XI Punjab",310,62
+5,2012-05-16,"Mumbai Indians","Kolkata Knight Riders",311,63
+5,2012-05-17,"Kings XI Punjab","Chennai Super Kings",312,64
+5,2012-05-17,"Delhi Daredevils","Royal Challengers Bangalore",313,65
+5,2012-05-18,"Deccan Chargers","Rajasthan Royals",314,66
+5,2012-05-19,"Kings XI Punjab","Delhi Daredevils",315,67
+5,2012-05-19,"Pune Warriors","Kolkata Knight Riders",316,68
+5,2012-05-20,"Deccan Chargers","Royal Challengers Bangalore",317,69
+5,2012-05-20,"Rajasthan Royals","Mumbai Indians",318,70
+5,2012-05-22,"Delhi Daredevils","Kolkata Knight Riders",319,71
+5,2012-05-23,"Chennai Super Kings","Mumbai Indians",320,72
+5,2012-05-25,"Delhi Daredevils","Chennai Super Kings",321,73
+5,2012-05-27,"Kolkata Knight Riders","Chennai Super Kings",322,74
+6,2013-04-03,"Kolkata Knight Riders","Delhi Daredevils",323,1
+6,2013-04-04,"Royal Challengers Bangalore","Mumbai Indians",324,2
+6,2013-04-05,"Sunrisers Hyderabad","Pune Warriors",325,3
+6,2013-04-06,"Delhi Daredevils","Rajasthan Royals",326,4
+6,2013-04-06,"Chennai Super Kings","Mumbai Indians",327,5
+6,2013-04-07,"Pune Warriors","Kings XI Punjab",328,6
+6,2013-04-07,"Sunrisers Hyderabad","Royal Challengers Bangalore",329,7
+6,2013-04-08,"Rajasthan Royals","Kolkata Knight Riders",330,8
+6,2013-04-09,"Mumbai Indians","Delhi Daredevils",331,9
+6,2013-04-10,"Kings XI Punjab","Chennai Super Kings",333,11
+6,2013-04-11,"Royal Challengers Bangalore","Kolkata Knight Riders",334,12
+6,2013-04-11,"Pune Warriors","Rajasthan Royals",335,13
+6,2013-04-12,"Delhi Daredevils","Sunrisers Hyderabad",336,14
+6,2013-04-13,"Mumbai Indians","Pune Warriors",337,15
+6,2013-04-13,"Chennai Super Kings","Royal Challengers Bangalore",338,16
+6,2013-04-14,"Kolkata Knight Riders","Sunrisers Hyderabad",339,17
+6,2013-04-14,"Rajasthan Royals","Kings XI Punjab",340,18
+6,2013-04-15,"Chennai Super Kings","Pune Warriors",341,19
+6,2013-04-16,"Kings XI Punjab","Kolkata Knight Riders",342,20
+6,2013-04-16,"Royal Challengers Bangalore","Delhi Daredevils",343,21
+6,2013-04-17,"Pune Warriors","Sunrisers Hyderabad",344,22
+6,2013-04-17,"Rajasthan Royals","Mumbai Indians",345,23
+6,2013-04-18,"Delhi Daredevils","Chennai Super Kings",346,24
+6,2013-04-19,"Sunrisers Hyderabad","Kings XI Punjab",347,25
+6,2013-04-20,"Kolkata Knight Riders","Chennai Super Kings",348,26
+6,2013-04-20,"Royal Challengers Bangalore","Rajasthan Royals",349,27
+6,2013-04-21,"Delhi Daredevils","Mumbai Indians",350,28
+6,2013-04-21,"Kings XI Punjab","Pune Warriors",351,29
+6,2013-04-22,"Chennai Super Kings","Rajasthan Royals",352,30
+6,2013-04-23,"Royal Challengers Bangalore","Pune Warriors",353,31
+6,2013-05-16,"Kings XI Punjab","Delhi Daredevils",389,67
+6,2013-04-24,"Kolkata Knight Riders","Mumbai Indians",355,33
+6,2013-04-25,"Chennai Super Kings","Sunrisers Hyderabad",356,34
+6,2013-04-26,"Kolkata Knight Riders","Kings XI Punjab",357,35
+6,2013-04-27,"Rajasthan Royals","Sunrisers Hyderabad",358,36
+6,2013-04-27,"Mumbai Indians","Royal Challengers Bangalore",359,37
+6,2013-04-28,"Chennai Super Kings","Kolkata Knight Riders",360,38
+6,2013-04-28,"Delhi Daredevils","Pune Warriors",361,39
+6,2013-04-29,"Rajasthan Royals","Royal Challengers Bangalore",362,40
+6,2013-04-29,"Mumbai Indians","Kings XI Punjab",363,41
+6,2013-04-30,"Pune Warriors","Chennai Super Kings",364,42
+6,2013-05-01,"Sunrisers Hyderabad","Mumbai Indians",365,43
+6,2013-05-01,"Delhi Daredevils","Kolkata Knight Riders",366,44
+6,2013-05-02,"Chennai Super Kings","Kings XI Punjab",367,45
+6,2013-05-02,"Pune Warriors","Royal Challengers Bangalore",368,46
+6,2013-05-03,"Kolkata Knight Riders","Rajasthan Royals",369,47
+6,2013-05-04,"Sunrisers Hyderabad","Delhi Daredevils",370,48
+6,2013-05-14,"Royal Challengers Bangalore","Kings XI Punjab",385,63
+6,2013-05-05,"Mumbai Indians","Chennai Super Kings",371,49
+6,2013-05-05,"Rajasthan Royals","Pune Warriors",372,50
+6,2013-04-09,"Royal Challengers Bangalore","Sunrisers Hyderabad",332,10
+6,2013-05-07,"Rajasthan Royals","Delhi Daredevils",374,52
+6,2013-05-07,"Mumbai Indians","Kolkata Knight Riders",375,53
+6,2013-05-08,"Sunrisers Hyderabad","Chennai Super Kings",376,54
+6,2013-05-09,"Kings XI Punjab","Rajasthan Royals",377,55
+6,2013-05-09,"Pune Warriors","Kolkata Knight Riders",378,56
+6,2013-05-10,"Delhi Daredevils","Royal Challengers Bangalore",379,57
+6,2013-05-11,"Pune Warriors","Mumbai Indians",380,58
+6,2013-05-11,"Kings XI Punjab","Sunrisers Hyderabad",381,59
+6,2013-05-12,"Kolkata Knight Riders","Royal Challengers Bangalore",382,60
+6,2013-05-12,"Rajasthan Royals","Chennai Super Kings",383,61
+6,2013-04-23,"Delhi Daredevils","Kings XI Punjab",354,32
+6,2013-05-13,"Mumbai Indians","Sunrisers Hyderabad",384,62
+6,2013-05-15,"Kolkata Knight Riders","Pune Warriors",387,65
+6,2013-05-14,"Chennai Super Kings","Delhi Daredevils",386,64
+6,2013-05-15,"Mumbai Indians","Rajasthan Royals",388,66
+6,2013-05-06,"Kings XI Punjab","Royal Challengers Bangalore",373,51
+6,2013-05-17,"Sunrisers Hyderabad","Rajasthan Royals",390,68
+6,2013-05-18,"Kings XI Punjab","Mumbai Indians",391,69
+6,2013-05-19,"Pune Warriors","Delhi Daredevils",393,71
+6,2013-05-18,"Royal Challengers Bangalore","Chennai Super Kings",392,70
+6,2013-05-19,"Sunrisers Hyderabad","Kolkata Knight Riders",394,72
+6,2013-05-21,"Chennai Super Kings","Mumbai Indians",395,73
+6,2013-05-22,"Rajasthan Royals","Sunrisers Hyderabad",396,74
+6,2013-05-24,"Mumbai Indians","Rajasthan Royals",397,75
+6,2013-05-26,"Chennai Super Kings","Mumbai Indians",398,76
+7,2014-04-16,"Mumbai Indians","Kolkata Knight Riders",399,1
+7,2014-04-17,"Delhi Daredevils","Royal Challengers Bangalore",400,2
+7,2014-04-18,"Chennai Super Kings","Kings XI Punjab",401,3
+7,2014-04-18,"Sunrisers Hyderabad","Rajasthan Royals",402,4
+7,2014-04-19,"Royal Challengers Bangalore","Mumbai Indians",403,5
+7,2014-04-19,"Kolkata Knight Riders","Delhi Daredevils",404,6
+7,2014-04-20,"Rajasthan Royals","Kings XI Punjab",405,7
+7,2014-04-21,"Chennai Super Kings","Delhi Daredevils",406,8
+7,2014-04-22,"Kings XI Punjab","Sunrisers Hyderabad",407,9
+7,2014-04-23,"Rajasthan Royals","Chennai Super Kings",408,10
+7,2014-04-24,"Royal Challengers Bangalore","Kolkata Knight Riders",409,11
+7,2014-04-25,"Sunrisers Hyderabad","Delhi Daredevils",410,12
+7,2014-04-25,"Chennai Super Kings","Mumbai Indians",411,13
+7,2014-04-26,"Rajasthan Royals","Royal Challengers Bangalore",412,14
+7,2014-04-26,"Kolkata Knight Riders","Kings XI Punjab",413,15
+7,2014-04-27,"Delhi Daredevils","Mumbai Indians",414,16
+7,2014-04-27,"Sunrisers Hyderabad","Chennai Super Kings",415,17
+7,2014-04-28,"Kings XI Punjab","Royal Challengers Bangalore",416,18
+7,2014-04-29,"Kolkata Knight Riders","Rajasthan Royals",417,19
+7,2014-04-30,"Mumbai Indians","Sunrisers Hyderabad",418,20
+7,2014-05-02,"Chennai Super Kings","Kolkata Knight Riders",419,21
+7,2014-05-03,"Mumbai Indians","Kings XI Punjab",420,22
+7,2014-05-03,"Delhi Daredevils","Rajasthan Royals",421,23
+7,2014-05-04,"Royal Challengers Bangalore","Sunrisers Hyderabad",422,24
+7,2014-05-05,"Rajasthan Royals","Kolkata Knight Riders",423,25
+7,2014-05-05,"Delhi Daredevils","Chennai Super Kings",424,26
+7,2014-05-06,"Mumbai Indians","Royal Challengers Bangalore",425,27
+7,2014-05-07,"Delhi Daredevils","Kolkata Knight Riders",426,28
+7,2014-05-07,"Kings XI Punjab","Chennai Super Kings",427,29
+7,2014-05-08,"Rajasthan Royals","Sunrisers Hyderabad",428,30
+7,2014-05-09,"Royal Challengers Bangalore","Kings XI Punjab",429,31
+7,2014-05-10,"Delhi Daredevils","Sunrisers Hyderabad",430,32
+7,2014-05-10,"Mumbai Indians","Chennai Super Kings",431,33
+7,2014-05-11,"Kings XI Punjab","Kolkata Knight Riders",432,34
+7,2014-05-11,"Royal Challengers Bangalore","Rajasthan Royals",433,35
+7,2014-05-12,"Sunrisers Hyderabad","Mumbai Indians",434,36
+7,2014-05-13,"Chennai Super Kings","Rajasthan Royals",435,37
+7,2014-05-13,"Royal Challengers Bangalore","Delhi Daredevils",436,38
+7,2014-05-14,"Sunrisers Hyderabad","Kings XI Punjab",437,39
+7,2014-05-14,"Kolkata Knight Riders","Mumbai Indians",438,40
+7,2014-05-15,"Rajasthan Royals","Delhi Daredevils",439,41
+7,2014-05-18,"Chennai Super Kings","Royal Challengers Bangalore",440,42
+7,2014-05-18,"Sunrisers Hyderabad","Kolkata Knight Riders",441,43
+7,2014-05-19,"Rajasthan Royals","Mumbai Indians",442,44
+7,2014-05-19,"Delhi Daredevils","Kings XI Punjab",443,45
+7,2014-05-20,"Sunrisers Hyderabad","Royal Challengers Bangalore",444,46
+7,2014-05-20,"Kolkata Knight Riders","Chennai Super Kings",445,47
+7,2014-05-21,"Kings XI Punjab","Mumbai Indians",446,48
+7,2014-05-22,"Kolkata Knight Riders","Royal Challengers Bangalore",447,49
+7,2014-05-22,"Chennai Super Kings","Sunrisers Hyderabad",448,50
+7,2014-05-23,"Mumbai Indians","Delhi Daredevils",449,51
+7,2014-05-23,"Kings XI Punjab","Rajasthan Royals",450,52
+7,2014-05-24,"Royal Challengers Bangalore","Chennai Super Kings",451,53
+7,2014-05-24,"Kolkata Knight Riders","Sunrisers Hyderabad",452,54
+7,2014-05-25,"Kings XI Punjab","Delhi Daredevils",453,55
+7,2014-05-25,"Mumbai Indians","Rajasthan Royals",454,56
+7,2014-05-27,"Kings XI Punjab","Kolkata Knight Riders",455,57
+7,2014-05-28,"Chennai Super Kings","Mumbai Indians",456,58
+7,2014-05-30,"Chennai Super Kings","Kings XI Punjab",457,59
+7,2014-06-01,"Kolkata Knight Riders","Kings XI Punjab",458,60
+8,2015-04-08,"Kolkata Knight Riders","Mumbai Indians",459,1
+8,2015-04-09,"Chennai Super Kings","Delhi Daredevils",460,2
+8,2015-04-10,"Kings XI Punjab","Rajasthan Royals",461,3
+8,2015-04-11,"Chennai Super Kings","Sunrisers Hyderabad",462,4
+8,2015-04-11,"Kolkata Knight Riders","Royal Challengers Bangalore",463,5
+8,2015-04-12,"Delhi Daredevils","Rajasthan Royals",464,6
+8,2015-04-12,"Mumbai Indians","Kings XI Punjab",465,7
+8,2015-04-13,"Royal Challengers Bangalore","Sunrisers Hyderabad",466,8
+8,2015-04-14,"Rajasthan Royals","Mumbai Indians",467,9
+8,2015-04-30,"Kolkata Knight Riders","Chennai Super Kings",487,29
+8,2015-04-15,"Kings XI Punjab","Delhi Daredevils",468,10
+8,2015-04-16,"Sunrisers Hyderabad","Rajasthan Royals",469,11
+8,2015-04-17,"Mumbai Indians","Chennai Super Kings",470,12
+8,2015-04-18,"Sunrisers Hyderabad","Delhi Daredevils",471,13
+8,2015-04-18,"Kings XI Punjab","Kolkata Knight Riders",472,14
+8,2015-04-19,"Rajasthan Royals","Chennai Super Kings",473,15
+8,2015-04-19,"Royal Challengers Bangalore","Mumbai Indians",474,16
+8,2015-04-20,"Delhi Daredevils","Kolkata Knight Riders",475,17
+8,2015-04-21,"Rajasthan Royals","Kings XI Punjab",476,18
+8,2015-04-22,"Sunrisers Hyderabad","Kolkata Knight Riders",477,19
+8,2015-04-22,"Royal Challengers Bangalore","Chennai Super Kings",478,20
+8,2015-04-23,"Delhi Daredevils","Mumbai Indians",479,21
+8,2015-04-24,"Rajasthan Royals","Royal Challengers Bangalore",480,22
+8,2015-04-25,"Mumbai Indians","Sunrisers Hyderabad",481,23
+8,2015-04-25,"Chennai Super Kings","Kings XI Punjab",482,24
+8,2015-04-26,"Delhi Daredevils","Royal Challengers Bangalore",483,25
+8,2015-04-27,"Kings XI Punjab","Sunrisers Hyderabad",484,26
+8,2015-05-07,"Kolkata Knight Riders","Delhi Daredevils",498,40
+8,2015-04-29,"Royal Challengers Bangalore","Rajasthan Royals",486,28
+8,2015-04-28,"Chennai Super Kings","Kolkata Knight Riders",485,27
+8,2015-05-01,"Delhi Daredevils","Kings XI Punjab",488,30
+8,2015-05-01,"Mumbai Indians","Rajasthan Royals",489,31
+8,2015-05-02,"Royal Challengers Bangalore","Kolkata Knight Riders",490,32
+8,2015-05-02,"Sunrisers Hyderabad","Chennai Super Kings",491,33
+8,2015-05-03,"Kings XI Punjab","Mumbai Indians",492,34
+8,2015-05-03,"Rajasthan Royals","Delhi Daredevils",493,35
+8,2015-05-04,"Chennai Super Kings","Royal Challengers Bangalore",494,36
+8,2015-05-04,"Kolkata Knight Riders","Sunrisers Hyderabad",495,37
+8,2015-05-05,"Mumbai Indians","Delhi Daredevils",496,38
+8,2015-05-06,"Royal Challengers Bangalore","Kings XI Punjab",497,39
+8,2015-05-07,"Rajasthan Royals","Sunrisers Hyderabad",499,41
+8,2015-05-08,"Chennai Super Kings","Mumbai Indians",500,42
+8,2015-05-09,"Kolkata Knight Riders","Kings XI Punjab",501,43
+8,2015-05-09,"Delhi Daredevils","Sunrisers Hyderabad",502,44
+8,2015-05-10,"Mumbai Indians","Royal Challengers Bangalore",503,45
+8,2015-05-10,"Chennai Super Kings","Rajasthan Royals",504,46
+8,2015-05-11,"Sunrisers Hyderabad","Kings XI Punjab",505,47
+8,2015-05-12,"Delhi Daredevils","Chennai Super Kings",506,48
+8,2015-05-13,"Kings XI Punjab","Royal Challengers Bangalore",507,49
+8,2015-05-14,"Mumbai Indians","Kolkata Knight Riders",508,50
+8,2015-05-15,"Sunrisers Hyderabad","Royal Challengers Bangalore",509,51
+8,2015-05-16,"Kings XI Punjab","Chennai Super Kings",510,52
+8,2015-05-16,"Rajasthan Royals","Kolkata Knight Riders",511,53
+8,2015-05-17,"Royal Challengers Bangalore","Delhi Daredevils",512,54
+8,2015-05-17,"Sunrisers Hyderabad","Mumbai Indians",513,55
+8,2015-05-19,"Chennai Super Kings","Mumbai Indians",514,56
+8,2015-05-20,"Royal Challengers Bangalore","Rajasthan Royals",515,57
+8,2015-05-22,"Chennai Super Kings","Royal Challengers Bangalore",516,58
+8,2015-05-24,"Mumbai Indians","Chennai Super Kings",517,59
+9,2016-04-09,"Mumbai Indians","Rising Pune Supergiants",518,1
+9,2016-04-10,"Kolkata Knight Riders","Delhi Daredevils",519,2
+9,2016-04-11,"Kings XI Punjab","Gujarat Lions",520,3
+9,2016-04-12,"Royal Challengers Bangalore","Sunrisers Hyderabad",521,4
+9,2016-04-13,"Kolkata Knight Riders","Mumbai Indians",522,5
+9,2016-04-14,"Gujarat Lions","Rising Pune Supergiants",523,6
+9,2016-04-15,"Delhi Daredevils","Kings XI Punjab",524,7
+9,2016-04-16,"Sunrisers Hyderabad","Kolkata Knight Riders",525,8
+9,2016-04-16,"Mumbai Indians","Gujarat Lions",526,9
+9,2016-04-17,"Kings XI Punjab","Rising Pune Supergiants",527,10
+9,2016-04-17,"Royal Challengers Bangalore","Delhi Daredevils",528,11
+9,2016-04-18,"Sunrisers Hyderabad","Mumbai Indians",529,12
+9,2016-04-19,"Kings XI Punjab","Kolkata Knight Riders",530,13
+9,2016-04-20,"Mumbai Indians","Royal Challengers Bangalore",531,14
+9,2016-04-21,"Gujarat Lions","Sunrisers Hyderabad",532,15
+9,2016-04-22,"Rising Pune Supergiants","Royal Challengers Bangalore",533,16
+9,2016-04-23,"Delhi Daredevils","Mumbai Indians",534,17
+9,2016-04-23,"Sunrisers Hyderabad","Kings XI Punjab",535,18
+9,2016-04-24,"Gujarat Lions","Royal Challengers Bangalore",536,19
+9,2016-04-24,"Rising Pune Supergiants","Kolkata Knight Riders",537,20
+9,2016-04-25,"Kings XI Punjab","Mumbai Indians",538,21
+9,2016-04-26,"Sunrisers Hyderabad","Rising Pune Supergiants",539,22
+9,2016-04-27,"Delhi Daredevils","Gujarat Lions",540,23
+9,2016-04-28,"Mumbai Indians","Kolkata Knight Riders",541,24
+9,2016-04-29,"Rising Pune Supergiants","Gujarat Lions",542,25
+9,2016-04-30,"Delhi Daredevils","Kolkata Knight Riders",543,26
+9,2016-04-30,"Sunrisers Hyderabad","Royal Challengers Bangalore",544,27
+9,2016-05-01,"Gujarat Lions","Kings XI Punjab",545,28
+9,2016-05-01,"Rising Pune Supergiants","Mumbai Indians",546,29
+9,2016-05-02,"Royal Challengers Bangalore","Kolkata Knight Riders",547,30
+9,2016-05-03,"Gujarat Lions","Delhi Daredevils",548,31
+9,2016-05-04,"Kolkata Knight Riders","Kings XI Punjab",549,32
+9,2016-05-05,"Delhi Daredevils","Rising Pune Supergiants",550,33
+9,2016-05-06,"Sunrisers Hyderabad","Gujarat Lions",551,34
+9,2016-05-07,"Royal Challengers Bangalore","Rising Pune Supergiants",552,35
+9,2016-05-07,"Kings XI Punjab","Delhi Daredevils",553,36
+9,2016-05-08,"Mumbai Indians","Sunrisers Hyderabad",554,37
+9,2016-05-08,"Kolkata Knight Riders","Gujarat Lions",555,38
+9,2016-05-09,"Kings XI Punjab","Royal Challengers Bangalore",556,39
+9,2016-05-10,"Rising Pune Supergiants","Sunrisers Hyderabad",557,40
+9,2016-05-11,"Royal Challengers Bangalore","Mumbai Indians",558,41
+9,2016-05-12,"Sunrisers Hyderabad","Delhi Daredevils",559,42
+9,2016-05-13,"Mumbai Indians","Kings XI Punjab",560,43
+9,2016-05-14,"Royal Challengers Bangalore","Gujarat Lions",561,44
+9,2016-05-14,"Kolkata Knight Riders","Rising Pune Supergiants",562,45
+9,2016-05-15,"Kings XI Punjab","Sunrisers Hyderabad",563,46
+9,2016-05-15,"Mumbai Indians","Delhi Daredevils",564,47
+9,2016-05-16,"Kolkata Knight Riders","Royal Challengers Bangalore",565,48
+9,2016-05-17,"Rising Pune Supergiants","Delhi Daredevils",566,49
+9,2016-05-18,"Royal Challengers Bangalore","Kings XI Punjab",567,50
+9,2016-05-19,"Gujarat Lions","Kolkata Knight Riders",568,51
+9,2016-05-20,"Delhi Daredevils","Sunrisers Hyderabad",569,52
+9,2016-05-21,"Rising Pune Supergiants","Kings XI Punjab",570,53
+9,2016-05-21,"Gujarat Lions","Mumbai Indians",571,54
+9,2016-05-22,"Kolkata Knight Riders","Sunrisers Hyderabad",572,55
+9,2016-05-22,"Delhi Daredevils","Royal Challengers Bangalore",573,56
+9,2016-05-24,"Gujarat Lions","Royal Challengers Bangalore",574,57
+9,2016-05-25,"Sunrisers Hyderabad","Kolkata Knight Riders",575,58
+9,2016-05-27,"Gujarat Lions","Sunrisers Hyderabad",576,59
